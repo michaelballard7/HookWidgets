@@ -26,7 +26,6 @@ export default () => {
 		
 			<div className="ui container">
 				<SearchBar />
-				
 			</div>
 		)
 }
